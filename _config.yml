@@ -1,44 +1,36 @@
-# Basic
-title: XiaoXiao
-subtitle: Hi Welcome to your arrival
-welcome_message: <a href="https://github.com/wxcgithub2014" target="_blank">Download the theme</a>
+# This is the default format.
+# For more see: http://jekyllrb.com/docs/permalinks/
+permalink: /:title
+# https://help.github.com/articles/migrating-your-pages-site-from-maruku
+markdown: redcarpet
 
-description: 记录一些有价值的东西
+highlighter: pygments
+paginate: 20 # pagination based on number of posts
+paginate_path: "page/:num"
 
-url: "http://bestxiaoxiao.com"
+# These paths are to the main pages Jekyll-Bootstrap ships with.
+# Some JB helpers refer to these paths; change them here if needed.
+#
+categories_path : categories.html
+tags_path : tags.html
 
-permalink: /:year/:month/:title/
+#BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
+BASE_PATH : http://goileo.top
 
-# Format
-highlighter: rouge
+description : 深沉的意志，恢宏的想象和炽热的情感
+title : Goileo Lee
+logo : /assets/images/avatar.jpg
+#cover : /assets/images/background-cover.jpg
 
-# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-# cover_color: red
 
-# The blog button should not be removed.
-blog_button:
-    title: 事件
-    description: 最新动态
-
-# Navigation buttons in the front page.
-nav:
-    - {title: 关于, description: About Me}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
-
-# Pagination
-gems: [jekyll-paginate]
-paginate: 20
-paginate_path: "page/:num/"
- 
-# Social
-social:
-    weibo: xiaoxiao
-    github: wxcgithub2014
-    qq: 554140410
-    gplus: 107108267983477358170
-    mail: 554140410@qq.com
-
-# Google Analytics
-ga:
-    # id: your_ga_id
-    # host: your_host
+author:
+  name: Goileo Lee
+  maxim: Stay hungry,Stay foolish
+  role: Jekyll Theme
+  email: goileolee@foxmail.com
+  github: goileolee
+  twitter: goileolee
+  facebook: goileolee
+  googleplus: +goileolee
+  bio: "Hi, 我是goileolee"
+  uno-dbyll: /assets/images/avatar.jpg

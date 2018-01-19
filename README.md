@@ -1,8 +1,6 @@
-# 个人博客
-<!-- [Xuecheng](https://github.com/wxcgithub2014)  -->
-
-#### Android 
-- Android
+# Vno-jekyll, 一个jekyll blog的主题
+# Vno-jekyll, just another jekyll theme
 
 
+fork form yanshinian/vno-jekyll
 
