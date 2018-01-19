@@ -17,20 +17,20 @@ tags_path : tags.html
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
 BASE_PATH : http://goileo.top
 
-description : 深沉的意志，恢宏的想象和炽热的情感
-title : Goileo Lee
+description : 这只是个意外
+title : Liwiliwi
 logo : /assets/images/avatar.jpg
 #cover : /assets/images/background-cover.jpg
 
 
 author:
-  name: Goileo Lee
+  name: Liwiliwi
   maxim: Stay hungry,Stay foolish
   role: Jekyll Theme
-  email: goileolee@foxmail.com
-  github: goileolee
-  twitter: goileolee
-  facebook: goileolee
-  googleplus: +goileolee
-  bio: "Hi, 我是goileolee"
+  email: 554140410@qq.com
+  github: LiwiliwiCode
+  twitter: 
+  facebook: 
+  googleplus: 
+  bio: "Hi, 我是Liwiliwi"
   uno-dbyll: /assets/images/avatar.jpg
