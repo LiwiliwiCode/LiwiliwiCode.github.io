@@ -1,9 +1,9 @@
 # Basic
 title: XiaoXiao
-subtitle: A blog-orientation theme for XiaoXiao
+subtitle: Hi Welcome to your arrival
 welcome_message: <a href="https://github.com/wxcgithub2014" target="_blank">Download the theme</a>
+
 description: 记录一些有价值的东西
-creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://bestxiaoxiao.com"
 
@@ -17,24 +17,19 @@ highlighter: rouge
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 事件
+    description: 最新动态
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 关于, description: About Me, url: 'http://project.onevcat.com'}
+    - {title: 关于, description: About Me}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
 gems: [jekyll-paginate]
-paginate: 10
+paginate: 20
 paginate_path: "page/:num/"
-
-# Comment
-comment:
-    disqus: vno-jekyll
-    # duoshuo: 
-    
+ 
 # Social
 social:
     weibo: xiaoxiao
