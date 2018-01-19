@@ -2,7 +2,7 @@
 title: XiaoXiao
 subtitle: A blog-orientation theme for XiaoXiao
 welcome_message: <a href="https://github.com/wxcgithub2014" target="_blank">Download the theme</a>
-description: 记录一些有价值的东西.
+description: 记录一些有价值的东西
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://bestxiaoxiao.com"
@@ -37,6 +37,7 @@ comment:
     
 # Social
 social:
+    weibo: xiaoxiao
     github: wxcgithub2014
     qq: 554140410
     gplus: 107108267983477358170
